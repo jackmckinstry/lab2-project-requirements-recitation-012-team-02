@@ -1,5 +1,3 @@
-# lab2-project-requirements-recitation-012-team-02
-
 # CSCI 3308 Lab 2: Team Formation
 
 |                                                Course Website                                                 |                                                   Canvas                                                    |                                              Piazza                                               |
@@ -22,10 +20,12 @@ git push
 
 # Team Members
 
-Recitation-012-Team-02
-Group 2
+### Recitation-012-Team-02, Group 2
 
 Jack McKinstry - jackmckinstry
+
 Nash Mohd Reza - nashmohdreza
+
 Harrison Pena - SchoolHob
+
 Nathan Mukooba - nat3Muk
