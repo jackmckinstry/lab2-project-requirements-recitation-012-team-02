@@ -18,11 +18,11 @@ git commit -m "updated Readme.md with team details"
 git push
 ```
 
-# Team Members
+# Project Team Members
 
 ### Recitation-012-Team-02, Group 2
 
-Jack McKinstry - jackmckinstry
+Jack B McKinstry - jackmckinstry
 
 Nash Mohd Reza - nashmohdreza
 
