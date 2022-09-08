@@ -9,6 +9,8 @@ In this lab, we will learn how to use GitHub Projects to manage our class projec
 
 oh no it's all messed up oh no.
 
+	ERrOR
+
 1234567890abcdefghijk ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! ! No more greenbeans! ! ! ! ! ! ! ! **************
 
 ## Submission Guidelines
